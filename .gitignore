@@ -1,0 +1,28 @@
+# Pastas de build e binários gerados pela compilação
+build/
+*.elf
+*.hex
+*.bin
+*.o
+*.a
+*.out
+
+# Arquivos do PlatformIO (caso você use o VS Code para programar)
+.pio/
+.vscode/
+
+# Arquivos temporários e de log da Arduino IDE
+*.log
+*~
+*.bak
+
+# Arquivos ocultos gerados por Sistemas Operacionais
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+ehthumbs_vista.db
+[Tt]humbs.db
+Desktop.ini
